@@ -19,4 +19,4 @@ Swift and SwiftUI, Kotlin, React, Next.js, Supabase, Cloudflare, Vercel, Figma.
 
 ## Contact
 
-[hi@moonage.me](mailto:hi@moonage.me) · [moonage.me](https://moonage.me) · [LinkedIn](https://www.linkedin.com/in/denysvasyliuk) · [Behance](https://www.behance.net/denysvasyliuk)
+[hi@moonage.me](mailto:hi@moonage.me) · [moonage.me](https://moonage.me) · [LinkedIn](https://www.linkedin.com/in/denysvasyliuk) · [Behance](https://www.behance.net/moonage_me)
